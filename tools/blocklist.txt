@@ -1,0 +1,40 @@
+# YouTube video IDs the builder must never add (off-topic, duplicates, AI-generated).
+# One ID per line; anything after # is a comment.
+MnDjlUoFaoA  # chase: This is why your D&D chase scenes SUCK
+WEK_cjNalAs  # sea: The night rain falling on the sailboat protects the sea spac
+OWFsaSSgu0g  # desert: Son!A feat. LCM Studio – ARABIAN FANTASY (The Oriental Hit) 
+OuZpSiZOWjE  # sky: 🎵 Cozy Balcony over the Radiant City: Rain and Ambient Musi
+nvUIukUIOuI  # sky: 🎵 Serene Loft above the City: Snow and Ambient Music | Cybe
+8XjXsvdFs70  # sky: Floating Island 🍃 Chill Lofi Beats
+1oahTaVIQvk  # sky: Floating City 🍃 Chill Lofi Beats
+e9fTnzx7wzY  # sky: SQUARE ENIX MUSIC Airship Cruise Beats Mixed by DJ hidemi 🚀
+8Zc_XsN-pkU  # sky: SQUARE ENIX MUSIC Airship Cruise Beats Vol.2 by KICK OFF 🎆 
+OiCqjPoPg4E  # sky: SQUARE ENIX MUSIC Airship Cruise Beats Vol.3 by KICK OFF 🌠 
+yXF-BWow6fM  # sky: The music I listen to while adventuring on a floating island
+TUCzY-6XjUo  # volcano: Crystal Dungeon | Mysterious Adventure Ambience  | 3 Hours
+bG9QCThz4V0  # volcano: Dark Enchanted Mushroom Cave Ambience Relaxing Music & Trick
+3wgsqnJcFYI  # volcano: Elven Sanctuary Cave Ambience – 7 Hours of Magical Sleep Sou
+-xLSR2PdCdY  # puzzle: board game night | soft lofi for a relaxing night in
+emVlluouVAA  # puzzle: Chill Puzzle Music | Deep Focus | Relaxing Beats
+ivoer83blTg  # puzzle: Puzzle 🧩 ( lofi hip hop beats)
+G-xC_zW_BFk  # puzzle: Empires & Puzzles: RPG Quest - soundtrack - Base
+gGtHdkq4He0  # norse: VIKING EPIC MUSIC 2026 ⚔️ THE LONG WINTER | 30 Nordic Tracks
+iqoxXV1hGCo  # steampunk: Indoor Rain Sounds | Sleep, Study, Relax | No Thunder 🌧️
+8hxAZu_EXlE  # steampunk: Steampunk City (Full mix) - Sonic Racing CrossWorlds OST
+HMLcsp3vUSo  # ruins: Atlantis: Before All Was Lost | Fantasy AI Music Video
+9I8k3Cye4Kk  # fey: Flight of the Fairies | Ethereal Vocals & Celtic Fantasy Amb
+yps4PC9Rw_k  # elven: Fox Sailor - Elven Kingdom (Edit Version) | Medieval Adventu
+bbxJKhwitDo  # elven: re-upload of Fox Sailor - Elven Kingdom
+UH2Ci2DG-Og  # eastern: duplicate SAMURAI VILLAGE - 10 HOURS - HANS ZIMMER
+Tpe1e-sQX7c  # sky: Coastal Medieval Castle 🌊🏰 | Summer Window Ambience & Fant
+F92vsldzhck  # sky: 4K Rainy Medieval Castle Window View | Dragon Flying Outside
+9lpD5r0V1x8  # sky: Aurora Over Ancient Castle | Atmospheric Fantasy Relaxing Mu
+nWfJFV27OV4  # sky: Howl's Moving Castle Ambience | Fireplace | For Mental Reset
+lBETj3e_ixs  # sky: Sleep and Relax by Calcifer's Cozy Fireplace Warmth - Howl's
+yA41iunMG6A  # puzzle: Coding Stupor ~ video game music to help you focus
+15lghEDCTjw  # ruins: Music Of Cathedrals and Forgotten Temples  1 Hour Atmospheri
+GlmwkPdkaN4  # puzzle: generic ambient mix (𝐌𝐔𝐍𝐃𝐈 𝐎𝐏𝐔𝐒)
+Mek1UjIohxQ  # popular: unrelated pop song called DND (We are Nubia)
+BPjwBKfDIC0  # popular: unrelated pop song called DND (Real Boss)
+RO35mI_f1oc  # bandits: off-topic (Miles Bandit - Fantasy (Subtítulos en es)
+SCjWCxyaEO8  # funeral: off-topic (The Funeral Medieval - Ra (Official Vide)

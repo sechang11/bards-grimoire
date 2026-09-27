@@ -1,0 +1,6 @@
+tools/.game-icons.json
+__pycache__/
+data/
+tools/.cache/
+*.tmp
+.claude/
